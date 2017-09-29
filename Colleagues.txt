@@ -1,0 +1,22 @@
+----------------------------
+What is their name? - Galin
+Where are they from? - Gabrovo
+What hobbies/pastimes do they enjoy? - Basketball
+Why did they pick SoftUni? - want to be a programmer
+
+----------------------------
+
+What is their name? - Diliqn
+Where are they from? - Gabrovo
+What hobbies/pastimes do they enjoy? - Snowboarding
+Why did they pick SoftUni? - want to be a programmer
+
+----------------------------
+
+What is their name? - Kristiana
+Where are they from? - Sofia
+What hobbies/pastimes do they enjoy? - programming
+Why did they pick SoftUni? - want to be a programmer
+
+
+
